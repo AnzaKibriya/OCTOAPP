@@ -1,0 +1,5 @@
+utilities\Helpers.class
+Pages\Pages_Handle.class
+appiumSupport\AppiumBaseClass.class
+Pages\HandlePermissons.class
+utilities\Utilities.class
